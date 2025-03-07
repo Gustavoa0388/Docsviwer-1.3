@@ -1,0 +1,273 @@
+06-03-2025 08:18:20 - 192.168.15.17 - Atualizou o usuário: teste1 - luciane
+06-03-2025 08:32:04 - 192.168.15.17 - gustavo - Login
+06-03-2025 08:32:05 - 192.168.15.17 - gustavo - Logout
+06-03-2025 08:32:05 - 192.168.15.17 - gustavo - Logout
+06-03-2025 08:32:05 - 192.168.15.17 - gustavo - Logout
+2025-03-06 08:57:33 - Status de login salvo com sucesso.
+2025-03-06 08:57:33 - Último login salvo com sucesso.
+2025-03-06 08:57:33 - Detalhes do usuário atual salvos com sucesso para o usuário: luciane
+2025-03-06 08:57:33 - 06-03-2025 08:57:33 - 192.168.15.17 - luciane - Login
+2025-03-06 08:57:34 - 06-03-2025 08:57:34 - 192.168.15.17 - luciane - Buscou na Categoria 1
+2025-03-06 08:57:35 - 06-03-2025 08:57:35 - 192.168.15.17 - luciane - Visualizou o arquivo Rev. 04 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 1
+2025-03-06 08:57:36 - 06-03-2025 08:57:36 - 192.168.15.17 - luciane - Buscou na Categoria 2
+2025-03-06 08:57:37 - 06-03-2025 08:57:37 - 192.168.15.17 - luciane - Visualizou o arquivo NP 0025 Rev. 13.pdf na Categoria 2
+2025-03-06 08:57:39 - 06-03-2025 08:57:39 - 192.168.15.17 - luciane - Logout
+2025-03-06 08:57:59 - Status de login salvo com sucesso.
+2025-03-06 08:57:59 - Último login salvo com sucesso.
+2025-03-06 08:57:59 - Detalhes do usuário atual salvos com sucesso para o usuário: luciane
+2025-03-06 08:57:59 - 06-03-2025 08:57:59 - 192.168.15.17 - luciane - Login
+06-03-2025 08:58:12 - 192.168.15.17 - luciane - Carregou arquivos: DT 0919 Rev. 02 - Modelador de Placa para Grandes Fragmentos - LPS (Parte 02).pdf
+06-03-2025 08:58:21 - 192.168.15.17 - luciane - Salvou arquivos na categoria 'Documentos Vigentes' e subcategoria 'DT'
+2025-03-06 08:58:24 - 06-03-2025 08:58:24 - 192.168.15.17 - luciane - Abriu o painel de configurações.
+2025-03-06 08:58:25 - 06-03-2025 08:58:25 - 192.168.15.17 - luciane - Logout
+2025-03-06 08:58:25 - 06-03-2025 08:58:25 - 192.168.15.17 - luciane - Logout
+2025-03-06 08:58:25 - 06-03-2025 08:58:25 - 192.168.15.17 - luciane - Logout
+2025-03-06 09:50:57 - Tentativa de login falhou para o usuário: gustavo
+2025-03-06 09:51:01 - Status de login salvo com sucesso.
+2025-03-06 09:51:01 - Detalhes do usuário salvos com sucesso.
+2025-03-06 09:51:01 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 09:51:01 - Último login salvo com sucesso.
+2025-03-06 09:51:01 - 06-03-2025 09:51:01 - 192.168.15.17 - gustavo - Login
+06-03-2025 09:51:01 - 192.168.15.17 - gustavo - Login
+06-03-2025 09:51:05 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 09:51:05 - 06-03-2025 09:51:05 - 192.168.15.17 - gustavo - Login
+06-03-2025 09:51:05 - 192.168.15.17 - gustavo - Logout
+06-03-2025 09:51:05 - 192.168.15.17 - gustavo - Logout
+2025-03-06 09:51:05 - 06-03-2025 09:51:05 - 192.168.15.17 - gustavo - Logout
+2025-03-06 09:51:05 - Erro ao iniciar o programa: Não é possível acessar um objeto descartado.
+Nome do objeto: 'Viewer1'.
+2025-03-06 09:51:06 - Erro ao tentar realizar login: Não é possível acessar um objeto descartado.
+Nome do objeto: 'Viewer1'.
+2025-03-06 09:51:12 - Status de login salvo com sucesso.
+2025-03-06 09:51:12 - Detalhes do usuário salvos com sucesso.
+2025-03-06 09:51:12 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 09:51:12 - Último login salvo com sucesso.
+2025-03-06 09:51:12 - 06-03-2025 09:51:12 - 192.168.15.17 - gustavo - Login
+2025-03-06 09:51:12 - Usuário gustavo fez login com sucesso.
+2025-03-06 09:51:14 - 06-03-2025 09:51:14 - 192.168.15.17 - gustavo - Logout
+2025-03-06 09:51:19 - Status de login salvo com sucesso.
+2025-03-06 09:51:19 - Detalhes do usuário salvos com sucesso.
+2025-03-06 09:51:19 - Detalhes do usuário atual salvos com sucesso para o usuário: luciane
+2025-03-06 09:51:19 - Último login salvo com sucesso.
+2025-03-06 09:51:19 - 06-03-2025 09:51:19 - 192.168.15.17 - luciane - Login
+2025-03-06 09:51:19 - Usuário luciane fez login com sucesso.
+2025-03-06 09:51:20 - 06-03-2025 09:51:20 - 192.168.15.17 - luciane - Logout
+2025-03-06 09:51:22 - 06-03-2025 09:51:22 - 192.168.15.17 - gustavo - Logout
+2025-03-06 09:51:22 - 06-03-2025 09:51:22 - 192.168.15.17 - luciane - Logout
+2025-03-06 09:53:00 - Tentativa de login falhou para o usuário: gustavo
+2025-03-06 09:53:03 - Status de login salvo com sucesso.
+2025-03-06 09:53:03 - Detalhes do usuário salvos com sucesso.
+2025-03-06 09:53:03 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 09:53:03 - Último login salvo com sucesso.
+2025-03-06 09:53:03 - 06-03-2025 09:53:03 - 192.168.15.17 - gustavo - Login
+2025-03-06 09:53:03 - Usuário gustavo fez login com sucesso.
+2025-03-06 09:53:51 - 06-03-2025 09:53:51 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 09:53:52 - 06-03-2025 09:53:52 - 192.168.15.17 - gustavo - Logout
+2025-03-06 09:54:09 - Status de login salvo com sucesso.
+2025-03-06 09:54:09 - Detalhes do usuário salvos com sucesso.
+2025-03-06 09:54:09 - Detalhes do usuário atual salvos com sucesso para o usuário: luciane
+2025-03-06 09:54:09 - Último login salvo com sucesso.
+2025-03-06 09:54:09 - 06-03-2025 09:54:09 - 192.168.15.17 - luciane - Login
+2025-03-06 09:54:09 - Usuário luciane fez login com sucesso.
+06-03-2025 09:54:16 - 192.168.15.17 - luciane - Carregou arquivos: DT 2062 Rev. 00 - Parafuso Ø11,9 x 26,5 mm - M6 x 1,0 mm.pdf
+06-03-2025 09:54:32 - 192.168.15.17 - luciane - Salvou arquivos na categoria 'Documentos Obsoletos' e subcategoria 'EC'
+06-03-2025 09:57:16 - 192.168.15.17 - luciane - Realizou pesquisa por '' na categoria 'Documentos Obsoletos' e subcategoria 'EC'
+06-03-2025 09:57:23 - 192.168.15.17 - luciane - Excluiu documentos: DT 2062 Rev. 00 - Parafuso Ø11,9 x 26,5 mm - M6 x 1,0 mm.pdf
+06-03-2025 09:57:35 - 192.168.15.17 - luciane - Realizou pesquisa por '' na categoria 'Documentos Obsoletos' e subcategoria 'EC'
+06-03-2025 09:57:37 - 192.168.15.17 - luciane - Salvou arquivos na categoria 'Documentos Obsoletos' e subcategoria 'EC'
+06-03-2025 09:57:39 - 192.168.15.17 - luciane - Realizou pesquisa por '' na categoria 'Documentos Obsoletos' e subcategoria 'EC'
+06-03-2025 09:58:27 - 192.168.15.17 - luciane - Excluiu documentos: DT 2062 Rev. 00 - Parafuso Ø11,9 x 26,5 mm - M6 x 1,0 mm.pdf
+06-03-2025 10:01:55 - 192.168.15.17 - luciane - Abriu o painel de controle de usuários online.
+2025-03-06 10:02:48 - 06-03-2025 10:02:48 - 192.168.15.17 - luciane - Abriu o painel de configurações.
+2025-03-06 10:02:49 - 06-03-2025 10:02:49 - 192.168.15.17 - luciane - Logout
+2025-03-06 10:02:49 - 06-03-2025 10:02:49 - 192.168.15.17 - gustavo - Logout
+2025-03-06 10:02:49 - 06-03-2025 10:02:49 - 192.168.15.17 - luciane - Logout
+2025-03-06 10:02:55 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:02:59 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:03:00 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:03:01 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:03:05 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:03:10 - Tentativa de login múltiplo para o usuário: lucas
+2025-03-06 10:03:16 - Status de login salvo com sucesso.
+2025-03-06 10:03:16 - Detalhes do usuário salvos com sucesso.
+2025-03-06 10:03:16 - Detalhes do usuário atual salvos com sucesso para o usuário: lucas
+2025-03-06 10:03:16 - Último login salvo com sucesso.
+2025-03-06 10:03:16 - 06-03-2025 10:03:16 - 192.168.15.17 - lucas - Login
+2025-03-06 10:03:16 - Usuário lucas fez login com sucesso.
+2025-03-06 10:03:18 - 06-03-2025 10:03:18 - 192.168.15.17 - lucas - Buscou na Categoria 1
+2025-03-06 10:03:19 - 06-03-2025 10:03:19 - 192.168.15.17 - lucas - Visualizou o arquivo Rev. 03 - Placa Especial em T para Peq. Frag. 3 Furos.pdf na Categoria 1
+2025-03-06 10:03:19 - 06-03-2025 10:03:19 - 192.168.15.17 - lucas - Visualizou o arquivo Rev. 05 - Placa L Direita 2 Furos.pdf na Categoria 1
+2025-03-06 10:03:20 - 06-03-2025 10:03:20 - 192.168.15.17 - lucas - Visualizou o arquivo NP 0037 Rev. 12.pdf na Categoria 1
+2025-03-06 10:03:21 - 06-03-2025 10:03:21 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0077 REV 09.pdf na Categoria 1
+2025-03-06 10:03:21 - 06-03-2025 10:03:21 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0156 REV 04.pdf na Categoria 1
+2025-03-06 10:03:22 - 06-03-2025 10:03:22 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0245 REV 08.pdf na Categoria 1
+2025-03-06 10:03:23 - 06-03-2025 10:03:23 - 192.168.15.17 - lucas - Buscou na Categoria 2
+2025-03-06 10:03:24 - 06-03-2025 10:03:24 - 192.168.15.17 - lucas - Visualizou o arquivo Rev. 01 - Placa L Direita 2 Furos.pdf na Categoria 2
+2025-03-06 10:03:24 - 06-03-2025 10:03:24 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0033 REV 04.pdf na Categoria 2
+2025-03-06 10:03:25 - 06-03-2025 10:03:25 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0203 REV 06.pdf na Categoria 2
+2025-03-06 10:03:25 - 06-03-2025 10:03:25 - 192.168.15.17 - lucas - Visualizou o arquivo Rev. 02 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 2
+2025-03-06 10:03:26 - 06-03-2025 10:03:26 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0255 REV 04.pdf na Categoria 2
+2025-03-06 10:03:26 - 06-03-2025 10:03:26 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0293 REV 08.pdf na Categoria 2
+2025-03-06 10:03:27 - 06-03-2025 10:03:27 - 192.168.15.17 - lucas - Visualizou o arquivo DT 0119 REV 12.pdf na Categoria 2
+2025-03-06 10:03:28 - 06-03-2025 10:03:28 - 192.168.15.17 - lucas - Logout
+2025-03-06 10:03:29 - 06-03-2025 10:03:29 - 192.168.15.17 - lucas - Logout
+06-03-2025 11:29:21 - 192.168.15.60 - luciane - Login
+06-03-2025 11:29:35 - 192.168.15.60 - luciane - Buscou na Categoria 3
+06-03-2025 11:29:37 - 192.168.15.60 - luciane - Visualizou o arquivo DT 1795 REV 01.pdf na Categoria 3
+06-03-2025 11:29:47 - 192.168.15.60 - luciane - Buscou na Categoria 3
+06-03-2025 11:30:56 - 192.168.15.60 - luciane - Buscou na Categoria 3
+06-03-2025 11:30:58 - 192.168.15.60 - luciane - Visualizou o arquivo SF 1342 REV 00.pdf na Categoria 3
+06-03-2025 11:44:22 - 192.168.15.60 - luciane - Logout
+2025-03-06 11:53:09 - Tentativa de login falhou para o usuário: gustavo
+2025-03-06 11:53:11 - Status de login salvo com sucesso.
+2025-03-06 11:53:11 - Detalhes do usuário salvos com sucesso.
+2025-03-06 11:53:11 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 11:53:11 - Último login salvo com sucesso.
+2025-03-06 11:53:11 - 06-03-2025 11:53:11 - 192.168.15.17 - gustavo - Login
+2025-03-06 11:53:11 - Usuário gustavo fez login com sucesso.
+2025-03-06 11:53:47 - 06-03-2025 11:53:47 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:53:54 - Tentativa de login falhou para o usuário: gustavo
+2025-03-06 11:53:58 - Status de login salvo com sucesso.
+2025-03-06 11:53:58 - Detalhes do usuário salvos com sucesso.
+2025-03-06 11:53:58 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 11:53:58 - Último login salvo com sucesso.
+2025-03-06 11:53:58 - 06-03-2025 11:53:58 - 192.168.15.17 - gustavo - Login
+2025-03-06 11:53:58 - Usuário gustavo fez login com sucesso.
+2025-03-06 11:54:48 - 06-03-2025 11:54:48 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:54:51 - 06-03-2025 11:54:51 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:54:51 - 06-03-2025 11:54:51 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:54:57 - Status de login salvo com sucesso.
+2025-03-06 11:54:57 - Detalhes do usuário salvos com sucesso.
+2025-03-06 11:54:57 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 11:54:57 - Último login salvo com sucesso.
+2025-03-06 11:54:57 - 06-03-2025 11:54:57 - 192.168.15.17 - gustavo - Login
+2025-03-06 11:54:57 - Usuário gustavo fez login com sucesso.
+06-03-2025 11:55:11 - 192.168.15.17 - gustavo - Login
+06-03-2025 11:55:14 - 192.168.15.17 - gustavo - Buscou na Categoria 3
+2025-03-06 11:55:16 - 06-03-2025 11:55:16 - 192.168.15.17 - gustavo - Login
+2025-03-06 11:55:17 - 06-03-2025 11:55:17 - 192.168.15.17 - gustavo - Buscou na Categoria 1
+2025-03-06 11:55:32 - 06-03-2025 11:55:32 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:55:35 - 06-03-2025 11:55:35 - 192.168.15.17 - gustavo - Logout
+06-03-2025 11:55:35 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:55:35 - 06-03-2025 11:55:35 - 192.168.15.17 - gustavo - Logout
+2025-03-06 11:57:14 - Status de login salvo com sucesso.
+2025-03-06 11:57:14 - Detalhes do usuário salvos com sucesso.
+2025-03-06 11:57:14 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 11:57:14 - Último login salvo com sucesso.
+2025-03-06 11:57:15 - 06-03-2025 11:57:15 - 192.168.15.17 - gustavo - Login
+2025-03-06 11:57:15 - Usuário gustavo fez login com sucesso.
+2025-03-06 11:57:16 - 06-03-2025 11:57:16 - 192.168.15.17 - gustavo - Buscou na Categoria 1
+2025-03-06 11:57:17 - 06-03-2025 11:57:17 - 192.168.15.17 - gustavo - Visualizou o arquivo Rev. 04 - Placa Especial em T para Peq. Frag. 3 Furos.pdf na Categoria 1
+2025-03-06 11:57:18 - 06-03-2025 11:57:18 - 192.168.15.17 - gustavo - Buscou na Categoria 2
+2025-03-06 11:57:19 - 06-03-2025 11:57:19 - 192.168.15.17 - gustavo - Visualizou o arquivo Rev. 02 - Placa L Direita 2 Furos.pdf na Categoria 2
+06-03-2025 11:59:05 - 192.168.15.17 - gustavo - Carregou arquivos: DT 0877 Rev. 02 - Modelador de placa para Pequenos Fragmentos - LPS.pdf
+06-03-2025 11:59:06 - 192.168.15.17 - gustavo - Salvou arquivos na categoria 'Documentos Obsoletos' e subcategoria 'GR'
+06-03-2025 11:59:15 - 192.168.15.17 - gustavo - Realizou pesquisa por '' na categoria 'Documentos Obsoletos' e subcategoria 'GR'
+06-03-2025 11:59:18 - 192.168.15.17 - gustavo - Excluiu documentos: DT 0877 Rev. 02 - Modelador de placa para Pequenos Fragmentos - LPS.pdf
+06-03-2025 11:59:49 - 192.168.15.17 - gustavo - Limpou a lista de arquivos.
+06-03-2025 11:59:52 - 192.168.15.17 - gustavo - Carregou arquivos: DT 0877 Rev. 02 - Modelador de placa para Pequenos Fragmentos - LPS.pdf
+06-03-2025 12:00:01 - 192.168.15.17 - gustavo - Salvou arquivos na categoria 'Documentos Vigentes' e subcategoria 'DT'
+2025-03-06 12:01:03 - 06-03-2025 12:01:03 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 12:01:04 - 06-03-2025 12:01:04 - 192.168.15.17 - gustavo - Logout
+2025-03-06 12:01:05 - 06-03-2025 12:01:05 - 192.168.15.17 - gustavo - Logout
+2025-03-06 13:32:52 - Status de login salvo com sucesso.
+2025-03-06 13:32:52 - Detalhes do usuário salvos com sucesso.
+2025-03-06 13:32:52 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 13:32:52 - Último login salvo com sucesso.
+2025-03-06 13:32:52 - 06-03-2025 13:32:52 - 192.168.15.17 - gustavo - Login
+2025-03-06 13:32:52 - Usuário gustavo fez login com sucesso.
+2025-03-06 13:32:54 - 06-03-2025 13:32:54 - 192.168.15.17 - gustavo - Buscou na Categoria 1
+2025-03-06 13:32:55 - 06-03-2025 13:32:55 - 192.168.15.17 - gustavo - Buscou na Categoria 2
+2025-03-06 13:32:57 - 06-03-2025 13:32:57 - 192.168.15.17 - gustavo - Logout
+2025-03-06 13:32:57 - 06-03-2025 13:32:57 - 192.168.15.17 - gustavo - Logout
+2025-03-06 22:55:57 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 22:58:20 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 22:58:30 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 22:58:42 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 23:01:00 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 23:01:06 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 23:02:42 - Erro ao tentar realizar login: Invalid salt version
+2025-03-06 23:04:23 - Tentativa de login falhou para o usuário: gustavo
+2025-03-06 23:04:27 - Status de login salvo com sucesso.
+2025-03-06 23:04:27 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:04:28 - 06-03-2025 23:04:28 - 192.168.15.17 - gustavo - Login
+06-03-2025 23:07:26 - 192.168.15.17 - Atualizou o usuário: teste1 - gustavo
+06-03-2025 23:07:50 - 192.168.15.17 - Atualizou o usuário: teste1 - gustavo
+06-03-2025 23:08:34 - 192.168.15.17 - gustavo - Usuário testesenha criado com sucesso.
+2025-03-06 23:08:56 - 06-03-2025 23:08:56 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:14:10 - 06-03-2025 23:14:10 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:14:10 - 06-03-2025 23:14:10 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:15:56 - Status de login salvo com sucesso.
+2025-03-06 23:15:56 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:15:57 - 06-03-2025 23:15:57 - 192.168.15.17 - gustavo - Login
+2025-03-06 23:16:11 - 06-03-2025 23:16:11 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:16:11 - 06-03-2025 23:16:11 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:16:16 - Status de login salvo com sucesso.
+2025-03-06 23:16:16 - Detalhes do usuário atual salvos com sucesso para o usuário: testesenha
+2025-03-06 23:16:16 - 06-03-2025 23:16:16 - 192.168.15.17 - testesenha - Login
+2025-03-06 23:16:21 - 06-03-2025 23:16:21 - 192.168.15.17 - testesenha - Logout
+2025-03-06 23:16:22 - 06-03-2025 23:16:22 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:16:22 - 06-03-2025 23:16:22 - 192.168.15.17 - testesenha - Logout
+2025-03-06 23:22:08 - Status de login salvo com sucesso.
+2025-03-06 23:22:08 - Último login salvo com sucesso.
+2025-03-06 23:22:08 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:22:09 - 06-03-2025 23:22:09 - 192.168.15.17 - gustavo - Login
+2025-03-06 23:22:39 - 06-03-2025 23:22:39 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:22:39 - 06-03-2025 23:22:39 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:23:01 - Status de login salvo com sucesso.
+2025-03-06 23:23:01 - Último login salvo com sucesso.
+2025-03-06 23:23:01 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:23:01 - 06-03-2025 23:23:01 - 192.168.15.17 - gustavo - Login
+2025-03-06 23:23:16 - 06-03-2025 23:23:16 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:23:16 - 06-03-2025 23:23:16 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:24:23 - Status de login salvo com sucesso.
+2025-03-06 23:24:23 - Último login salvo com sucesso.
+2025-03-06 23:24:23 - Detalhes do usuário atual salvos com sucesso para o usuário: testesenha
+2025-03-06 23:24:23 - 06-03-2025 23:24:23 - 192.168.15.17 - testesenha - Login
+2025-03-06 23:24:25 - 06-03-2025 23:24:25 - 192.168.15.17 - testesenha - Buscou na Categoria 1
+2025-03-06 23:24:26 - 06-03-2025 23:24:26 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 01 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 1
+2025-03-06 23:24:34 - 06-03-2025 23:24:34 - 192.168.15.17 - testesenha - Buscou na Categoria 1
+2025-03-06 23:24:35 - 06-03-2025 23:24:35 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 04 - Placa L Esquerda 2 Furos.pdf na Categoria 1
+2025-03-06 23:24:36 - 06-03-2025 23:24:36 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 03 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 1
+2025-03-06 23:24:37 - 06-03-2025 23:24:37 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 00 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 1
+2025-03-06 23:24:38 - 06-03-2025 23:24:38 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 02 - Placa Especial em T para Peq. Frag. 3 Furos.pdf na Categoria 1
+2025-03-06 23:24:39 - 06-03-2025 23:24:39 - 192.168.15.17 - testesenha - Buscou na Categoria 2
+2025-03-06 23:24:40 - 06-03-2025 23:24:40 - 192.168.15.17 - testesenha - Visualizou o arquivo Rev. 04 - Placa Especial em T para Peq. Frag. 4 Furos.pdf na Categoria 2
+2025-03-06 23:24:42 - 06-03-2025 23:24:42 - 192.168.15.17 - testesenha - Logout
+2025-03-06 23:24:46 - 06-03-2025 23:24:46 - 192.168.15.17 - testesenha - Logout
+2025-03-06 23:25:21 - Status de login salvo com sucesso.
+2025-03-06 23:25:21 - Último login salvo com sucesso.
+2025-03-06 23:25:21 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:25:21 - 06-03-2025 23:25:21 - 192.168.15.17 - gustavo - Login
+06-03-2025 23:25:27 - 192.168.15.17 - gustavo - Exportou um relatório de usuários.
+2025-03-06 23:25:58 - 06-03-2025 23:25:58 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:31:35 - 06-03-2025 23:31:35 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:31:37 - 06-03-2025 23:31:37 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:31:37 - 06-03-2025 23:31:37 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:38:26 - Status de login salvo com sucesso.
+2025-03-06 23:38:26 - Último login salvo com sucesso.
+2025-03-06 23:38:26 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:38:26 - 06-03-2025 23:38:26 - 192.168.15.17 - gustavo - Login
+06-03-2025 23:39:04 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+06-03-2025 23:39:13 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+06-03-2025 23:39:25 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+2025-03-06 23:40:03 - 06-03-2025 23:40:03 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:40:04 - 06-03-2025 23:40:04 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:40:04 - 06-03-2025 23:40:04 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:40:15 - Status de login salvo com sucesso.
+2025-03-06 23:40:15 - Último login salvo com sucesso.
+2025-03-06 23:40:15 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:40:15 - 06-03-2025 23:40:15 - 192.168.15.17 - gustavo - Login
+06-03-2025 23:40:31 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+06-03-2025 23:40:36 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+2025-03-06 23:40:37 - 06-03-2025 23:40:37 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
+2025-03-06 23:40:38 - 06-03-2025 23:40:38 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:40:38 - 06-03-2025 23:40:38 - 192.168.15.17 - gustavo - Logout
+2025-03-06 23:42:13 - Status de login salvo com sucesso.
+2025-03-06 23:42:13 - Último login salvo com sucesso.
+2025-03-06 23:42:13 - Detalhes do usuário atual salvos com sucesso para o usuário: gustavo
+2025-03-06 23:42:14 - 06-03-2025 23:42:14 - 192.168.15.17 - gustavo - Login
+06-03-2025 23:42:34 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+06-03-2025 23:42:52 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+06-03-2025 23:43:03 - 192.168.15.17 - gustavo - Erro ao exportar relatório de usuário: Input string '06-03-2025' is not a valid number. Path '', line 1, position 10.
+2025-03-06 23:43:05 - 06-03-2025 23:43:05 - 192.168.15.17 - gustavo - Abriu o painel de configurações.
