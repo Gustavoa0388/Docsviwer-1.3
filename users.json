@@ -1,32 +1,56 @@
 [
-    {
-        "Username": "admin",
-        "Password": "123",
-        "Role": "admin"
-    },
-    {
-        "Username": "user",
-        "Password": "123",
-        "Role": "user"
-    },
-    {
-        "Username": "gustavo",
-        "Password": "123",
-        "Role": "admin"
-    },
-    {
-        "Username": "test",
-        "Password": "123",
-        "Role": "user"
-    },
-    {
-        "Username": "ingrid",
-        "Password": "123",
-        "Role": "user"
-    },
-    {
-        "Username": "Luciane",
-        "Password": "123",
-        "Role": "admin"
-    }
+  {
+    "Username": "admin",
+    "Password": "Orto1133",
+    "Role": "admin",
+    "LastLogin": "0001-01-01T00:00:00"
+  },
+  {
+    "Username": "gustavo",
+    "Password": "031988",
+    "Role": "admin",
+    "LastLogin": "2025-03-06T13:32:52.0530739-03:00"
+  },
+  {
+    "Username": "teste1",
+    "Password": "123",
+    "Role": "admin",
+    "LastLogin": "0001-01-01T00:00:00"
+  },
+  {
+    "Username": "lucas",
+    "Password": "123",
+    "Role": "admin",
+    "LastLogin": "2025-03-06T10:03:16.4219983-03:00"
+  },
+  {
+    "Username": "ingrid",
+    "Password": "041202",
+    "Role": "user",
+    "LastLogin": "0001-01-01T00:00:00"
+  },
+  {
+    "Username": "isadora",
+    "Password": "123",
+    "Role": "user",
+    "LastLogin": "0001-01-01T00:00:00"
+  },
+  {
+    "Username": "nathalia",
+    "Password": "123",
+    "Role": "admin",
+    "LastLogin": "0001-01-01T00:00:00"
+  },
+  {
+    "Username": "luciane",
+    "Password": "123",
+    "Role": "admin",
+    "LastLogin": "2025-03-06T09:54:09.4009025-03:00"
+  },
+  {
+    "Username": "maria",
+    "Password": "123",
+    "Role": "user",
+    "LastLogin": "0001-01-01T00:00:00"
+  }
 ]
